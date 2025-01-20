@@ -1,0 +1,8 @@
+﻿@font-face {
+    font-family: 'Emotional Baggage';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Emotional Baggage'), url('../s/106813/EmotionalBaggage-ZVdXK.woff') format('woff');
+}
+
+

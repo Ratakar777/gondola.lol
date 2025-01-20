@@ -1,0 +1,38 @@
+﻿@font-face {
+    font-family: 'Comic Neue';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Comic Neue'), url('../s/46605/ComicNeue-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Comic Neue';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Comic Neue'), url('../s/46605/ComicNeue-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Comic Neue';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Comic Neue'), url('../s/46605/ComicNeue-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Comic Neue';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Comic Neue'), url('../s/46605/ComicNeue-LightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Comic Neue';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Comic Neue'), url('../s/46605/ComicNeue-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Comic Neue';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Comic Neue'), url('../s/46605/ComicNeue-BoldItalic.woff') format('woff');
+}
+
+

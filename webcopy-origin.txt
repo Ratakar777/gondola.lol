@@ -1,0 +1,84 @@
+Uri: https://fonts.cdnfonts.com/css/comic-neue
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\css\comic-neue
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/css/emotional-baggage
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\css\emotional-baggage
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/106813/EmotionalBaggage-ZVdXK.woff
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\s\106813\EmotionalBaggage-ZVdXK.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/46605/ComicNeue-Bold.woff
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\s\46605\ComicNeue-Bold.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/46605/ComicNeue-BoldItalic.woff
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\s\46605\ComicNeue-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/46605/ComicNeue-Italic.woff
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\s\46605\ComicNeue-Italic.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/46605/ComicNeue-Light.woff
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\s\46605\ComicNeue-Light.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/46605/ComicNeue-LightItalic.woff
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\s\46605\ComicNeue-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/46605/ComicNeue-Regular.woff
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\s\46605\ComicNeue-Regular.woff
+Content Type: font/woff
+
+Uri: https://gondola.lol/
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\index.htm
+Content Type: text/html
+
+Uri: https://gondola.lol/favicon.ico
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://gondola.lol/logo192.png
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\logo192.png
+Content Type: image/png
+
+Uri: https://gondola.lol/manifest.json
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\manifest.json
+Content Type: application/json
+
+Uri: https://gondola.lol/static/css/main.e17412fc.css
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\css\main.e17412fc.css
+Content Type: text/css
+
+Uri: https://gondola.lol/static/js/main.26331a68.js
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\js\main.26331a68.js
+Content Type: application/javascript
+
+Uri: https://gondola.lol/static/media/bgtexture.891053c972a80a6829a3.svg
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\media\bgtexture.891053c972a80a6829a3.svg
+Content Type: image/svg+xml
+
+Uri: https://gondola.lol/static/media/cloudbackground.5a0220b0e21b3dd8ad93.png
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\media\cloudbackground.5a0220b0e21b3dd8ad93.png
+Content Type: image/png
+
+Uri: https://gondola.lol/static/media/fieldlowerbg.d1dd0de28128bbfdd154.png
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\media\fieldlowerbg.d1dd0de28128bbfdd154.png
+Content Type: image/png
+
+Uri: https://gondola.lol/static/media/grassbg.778da03726936915d9ee.png
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\media\grassbg.778da03726936915d9ee.png
+Content Type: image/png
+
+Uri: https://gondola.lol/static/media/joinbg.66c5346ff21c59926f30.png
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\media\joinbg.66c5346ff21c59926f30.png
+Content Type: image/png
+
+Uri: https://gondola.lol/static/media/noise.c5981cc2d4134958b474.png
+File Name: C:\work\Downloaded Web Sites\18.01\gondola.lol\static\media\noise.c5981cc2d4134958b474.png
+Content Type: image/png
+
